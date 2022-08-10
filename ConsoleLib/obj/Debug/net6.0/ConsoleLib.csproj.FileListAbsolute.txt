@@ -1,0 +1,12 @@
+C:\Users\kelly\source\repos\Project2\ConsoleLib\bin\Debug\net6.0\ConsoleLib.deps.json
+C:\Users\kelly\source\repos\Project2\ConsoleLib\bin\Debug\net6.0\ConsoleLib.dll
+C:\Users\kelly\source\repos\Project2\ConsoleLib\bin\Debug\net6.0\ConsoleLib.pdb
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\ConsoleLib.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\ConsoleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\ConsoleLib.AssemblyInfoInputs.cache
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\ConsoleLib.AssemblyInfo.cs
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\ConsoleLib.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\ConsoleLib.dll
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\refint\ConsoleLib.dll
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\ConsoleLib.pdb
+C:\Users\kelly\source\repos\Project2\ConsoleLib\obj\Debug\net6.0\ref\ConsoleLib.dll
